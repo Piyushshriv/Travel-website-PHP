@@ -86,3 +86,9 @@ Email integration for contact/booking confirmations
 
 📃 License
 This project is licensed under the MIT License.
+![Screenshot 2025-06-18 153225](https://github.com/user-attachments/assets/6fd8aa3f-305d-47dd-8228-a36a484592c0)
+
+![Screenshot 2025-06-18 153319](https://github.com/user-attachments/assets/b0ea2925-b91b-4a1a-8bbd-85c41ab72381)![Screenshot 2025-06-18 153508](https://github.com/user-attachments/assets/cb1c8631-4382-4f74-971a-890195c97e6f)
+
+
+
